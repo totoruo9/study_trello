@@ -20,10 +20,8 @@ const Title = styled.h1`
 `;
 
 const SBoard = styled.div`
-    
-    
-    
-    
+    background-color: red;
+    height: 100%;
 `;
 
 interface IBoardProps {
